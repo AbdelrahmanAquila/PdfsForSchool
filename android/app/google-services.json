@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760850652808",
+    "project_id": "aquila-pdfs",
+    "storage_bucket": "aquila-pdfs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760850652808:android:54a22981a181f7e337c93d",
+        "android_client_info": {
+          "package_name": "com.example.pdfs_4th_grade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPzzNbLGIP6jmxL1MLp_k-17tOWpBUi6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
